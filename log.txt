@@ -1,0 +1,109 @@
+
+Mon, 28 Jul 14 01:43:48 +0200Connected to the database. 
+Mon, 28 Jul 14 01:43:49 +0200Could not send money to gupta.prateek1302@gmail.com
+Mon, 28 Jul 14 01:43:49 +0200MassPay failed: Array
+(
+    [TIMESTAMP] => 2014%2d07%2d27T23%3a43%3a46Z
+    [CORRELATIONID] => c2f1336b9a8c7
+    [ACK] => Failure
+    [VERSION] => 51%2e0
+    [BUILD] => 11950065
+    [L_ERRORCODE0] => 10004
+    [L_SHORTMESSAGE0] => Transaction%20refused%20because%20of%20an%20invalid%20argument%2e%20See%20additional%20error%20messages%20for%20details%2e
+    [L_LONGMESSAGE0] => The%20amount%20is%20less%20than%20or%20equal%20to%20zero
+    [L_SEVERITYCODE0] => Error
+)
+
+Tue, 29 Jul 14 02:14:40 +0200Connected to the database. 
+Tue, 29 Jul 14 02:14:41 +0200Could not send money to gupta.prateek1302@gmail.com
+Tue, 29 Jul 14 02:14:41 +0200MassPay failed: Array
+(
+    [TIMESTAMP] => 2014%2d07%2d29T00%3a14%3a38Z
+    [CORRELATIONID] => c1e0cd808086e
+    [ACK] => Failure
+    [VERSION] => 51%2e0
+    [BUILD] => 11950065
+    [L_ERRORCODE0] => 10004
+    [L_SHORTMESSAGE0] => Transaction%20refused%20because%20of%20an%20invalid%20argument%2e%20See%20additional%20error%20messages%20for%20details%2e
+    [L_LONGMESSAGE0] => The%20amount%20is%20less%20than%20or%20equal%20to%20zero
+    [L_SEVERITYCODE0] => Error
+)
+
+Tue, 29 Jul 14 02:23:31 +0200Connected to the database. 
+Tue, 29 Jul 14 02:23:32 +0200Could not send money to gupta.prateek1302@gmail.com
+Tue, 29 Jul 14 02:23:32 +0200MassPay failed: Array
+(
+    [TIMESTAMP] => 2014%2d07%2d29T00%3a23%3a30Z
+    [CORRELATIONID] => 6f2b4af135ff0
+    [ACK] => Failure
+    [VERSION] => 51%2e0
+    [BUILD] => 11950065
+    [L_ERRORCODE0] => 10004
+    [L_SHORTMESSAGE0] => Transaction%20refused%20because%20of%20an%20invalid%20argument%2e%20See%20additional%20error%20messages%20for%20details%2e
+    [L_LONGMESSAGE0] => The%20amount%20is%20less%20than%20or%20equal%20to%20zero
+    [L_SEVERITYCODE0] => Error
+)
+
+Tue, 29 Jul 14 02:25:59 +0200Connected to the database. 
+Tue, 29 Jul 14 02:26:00 +0200Could not send money to gupta.prateek1302@gmail.com
+Tue, 29 Jul 14 02:26:00 +0200MassPay failed: Array
+(
+    [TIMESTAMP] => 2014%2d07%2d29T00%3a25%3a58Z
+    [CORRELATIONID] => c45b2bb31cefa
+    [ACK] => Failure
+    [VERSION] => 51%2e0
+    [BUILD] => 11950065
+    [L_ERRORCODE0] => 10004
+    [L_SHORTMESSAGE0] => Transaction%20refused%20because%20of%20an%20invalid%20argument%2e%20See%20additional%20error%20messages%20for%20details%2e
+    [L_LONGMESSAGE0] => The%20amount%20is%20less%20than%20or%20equal%20to%20zero
+    [L_SEVERITYCODE0] => Error
+)
+
+Tue, 29 Jul 14 02:26:39 +0200Connected to the database. 
+Tue, 29 Jul 14 02:26:39 +0200Could not send money to gupta.prateek1302@gmail.com
+Tue, 29 Jul 14 02:26:39 +0200MassPay failed: Array
+(
+    [TIMESTAMP] => 2014%2d07%2d29T00%3a26%3a37Z
+    [CORRELATIONID] => b411311e4955e
+    [ACK] => Failure
+    [VERSION] => 51%2e0
+    [BUILD] => 11950065
+    [L_ERRORCODE0] => 10004
+    [L_SHORTMESSAGE0] => Transaction%20refused%20because%20of%20an%20invalid%20argument%2e%20See%20additional%20error%20messages%20for%20details%2e
+    [L_LONGMESSAGE0] => The%20amount%20is%20less%20than%20or%20equal%20to%20zero
+    [L_SEVERITYCODE0] => Error
+)
+
+Tue, 29 Jul 14 06:35:21 +0200Connected to the database. 
+Tue, 29 Jul 14 06:35:21 +0200No requests!
+Tue, 29 Jul 14 06:48:11 +0200Connected to the database. 
+Tue, 29 Jul 14 06:48:11 +0200No requests!
+Tue, 29 Jul 14 06:50:50 +0200Connected to the database. 
+Tue, 29 Jul 14 06:50:50 +0200No requests!
+Tue, 29 Jul 14 06:51:22 +0200Connected to the database. 
+Tue, 29 Jul 14 06:51:23 +0200Could not send money to gupta.prateek1302@gmail.com
+Tue, 29 Jul 14 06:51:23 +0200MassPay failed: Array
+(
+    [TIMESTAMP] => 2014%2d07%2d29T04%3a51%3a20Z
+    [CORRELATIONID] => 65158827b3c70
+    [ACK] => Failure
+    [VERSION] => 51%2e0
+    [BUILD] => 11950065
+    [L_ERRORCODE0] => 10004
+    [L_SHORTMESSAGE0] => Transaction%20refused%20because%20of%20an%20invalid%20argument%2e%20See%20additional%20error%20messages%20for%20details%2e
+    [L_LONGMESSAGE0] => The%20amount%20is%20less%20than%20or%20equal%20to%20zero
+    [L_SEVERITYCODE0] => Error
+)
+
+Tue, 29 Jul 14 06:51:57 +0200Connected to the database. 
+Tue, 29 Jul 14 06:51:58 +0200Could not send money to gupta.prateek1302@gmail.com
+Tue, 29 Jul 14 06:51:59 +0200Money sent to anisha.gupta0505@gmail.com
+Tue, 29 Jul 14 06:51:59 +0200MassPay failed: Array
+(
+    [TIMESTAMP] => 2014%2d07%2d29T04%3a51%3a56Z
+    [CORRELATIONID] => 6491ba737595b
+    [ACK] => Success
+    [VERSION] => 51%2e0
+    [BUILD] => 11950065
+)
+
